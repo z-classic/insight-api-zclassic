@@ -68,8 +68,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-zcash": "github:str4d/bitcore-lib-zcash",
-    "bitcore-message-zcash": "github:str4d/bitcore-message-zcash",
+    "bitcore-lib-zclassic": "github:johandjoz/bitcore-lib-zclassic",
+    "bitcore-message-zclassic": "github:johandjoz/bitcore-message-zclassic",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
